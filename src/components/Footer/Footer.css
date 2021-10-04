@@ -1,8 +1,10 @@
+/* footer styles  */
 .footer{
     background-color: #2f031e;;
     height:250px;
     text-align: center;
 }
+/* footer button  */
 .footer button{
     margin:30px;
     background-color: rgb(220, 20, 113);
@@ -11,6 +13,7 @@
     font-weight: 900;
     font-size: x-large;
 }
+/* footer others  */
 .footer h2{
     color:white;
     font-weight: 500;

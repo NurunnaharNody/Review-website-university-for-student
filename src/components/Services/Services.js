@@ -3,7 +3,7 @@ import React from 'react';
 import { Card} from 'react-bootstrap';
 
 const Services = (props) => {
-    const{ img, name, Description, catagories} = props.serviceCard;
+    const{ img, name, Description,Amount, catagories} = props.serviceCard;
     return (
     <div>
            <div className="container">
@@ -14,10 +14,12 @@ const Services = (props) => {
           <Card.Text>
             {Description}
           </Card.Text>
-          <Card.Text className="catagories">
-              {catagories}
+          <Card.Text>
+            Tuition Fees:{Amount}
           </Card.Text>
-          <button className="service-btn">Go for degree</button>
+          <Card.Text className="catagories">
+              {catagories} <button className="service-btn">Go for degree</button>
+          </Card.Text>
         </Card.Body>
       </Card>
         </div>

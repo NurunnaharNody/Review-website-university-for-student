@@ -1,6 +1,17 @@
+  /* home section styles  */
 .title h1{
    text-align: center;
 }
+
+/* home section title  */
+.header-title h4{
+   color: rgb(56, 5, 39);
+   font-size: 55px;
+}
+.header-title p{
+    font-size: large;
+}
+/* header section styles  */
 .header-section{
    margin: 19px;
    text-align: center;

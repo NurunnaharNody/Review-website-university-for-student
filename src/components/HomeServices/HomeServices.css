@@ -1,24 +1,39 @@
+ /* card styles  */
 .card{
-    height:510px;
+    height:520px;
     width:500px;
     margin: 10px;
     margin-left: 50px;
-    border-radius: 5px;
-   border: 1px solid rgb(255, 176, 190);
+    border-radius: 10px;
+   border: 1px solid rgb(240, 240, 240);
+   background-color: rgba(240, 206, 230, 0.452);
 }
+/* card hover  */
+.card:hover{
+    box-shadow: 5px 10px rgba(255, 177, 209, 0.589);
+    margin-top: 3px;
+}
+/* card title  */
 .card-title{
     color: rgb(173, 2, 36);
     font-weight: 900;
     
 }
+.tuition-fee{
+    font-size: 15px;
+    font-weight: 500;
+}
+/* catagory styles  */
 .catagories{
     font-size: 20px;
     font-weight: 500;
 }
+/* service button style  */
 .service-btn{
-    background-color: rgb(119, 5, 28);
-    padding: 5px, 30px;
+    background-color: rgb(143, 6, 33);
     color: white;
+    text-align: end;
+    margin-left: 10px;
     font-weight: 900;
-    margin-left: 150px;
+    margin-bottom: 5px;
 }

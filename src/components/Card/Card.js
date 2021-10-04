@@ -13,7 +13,7 @@ const Card = () => {
     return (
         <div className="card-container">
             {
-              services.map(service => <HomeServices service={service}></HomeServices>)
+              services.map(service => <HomeServices key={service.id} service={service}></HomeServices>)
             }
         </div>
     );

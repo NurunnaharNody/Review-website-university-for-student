@@ -15,7 +15,7 @@ const Home = () => {
                <p>Our mission is to open our gates for higher education 
                    with a non-profit, tuition-free, 100% online university.
                    UFS is waiving fees for qualified applicants:
-                    Apply Today to earn a degree for free!</p>
+                    Apply Today to earn a degree for minimum cost!</p>
             </div>
             <div className="header-img">
                <img src="https://i.ibb.co/FnkQ6Cw/students-youth-adult-reading-education-knowledge-concept-67246912.jpg" alt="" />

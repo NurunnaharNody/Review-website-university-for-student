@@ -33,7 +33,8 @@ const WhyUfs = () => {
     <Carousel.Caption className="w-title" >
       <h3>Mihiran su</h3>
       <h4>Computer science</h4>
-      <p>It's a great site.Take ur decission and make it Enjoyable.</p>
+      <p>It's a great University. <br/>
+        Take ur decission and make it Enjoyable.</p>
     </Carousel.Caption>
   </Carousel.Item>
   <Carousel.Item>
@@ -46,13 +47,14 @@ const WhyUfs = () => {
     <Carousel.Caption className="w-title">
       <h3>Tanzeen N</h3>
       <h4>Bechelor of arts</h4>
-      <p>Love This Campus.Done my one year internship.</p>
-    </Carousel.Caption>
-  </Carousel.Item>
-</Carousel>
-<br/>
-<br/>
-<Footer></Footer>
+      <p>Love This Campus.<br/>
+        Done my one year internship.</p>
+       </Carousel.Caption>
+       </Carousel.Item>
+        </Carousel>
+        <br/>
+        <br/>
+         <Footer></Footer>
         </div>
     );
 };

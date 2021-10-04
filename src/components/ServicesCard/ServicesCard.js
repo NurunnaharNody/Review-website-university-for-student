@@ -14,9 +14,9 @@ const ServicesCard = () => {
     return (
         <div>
             <Header></Header>
-            <div class="serviceCard-container">
+            <div className="serviceCard-container">
             {
-              servicesCard.map(serviceCard => <Services serviceCard ={serviceCard}></Services>)
+              servicesCard.map(serviceCard => <Services key={serviceCard.id} serviceCard ={serviceCard}></Services>)
             }
             </div>
             <Footer></Footer>
