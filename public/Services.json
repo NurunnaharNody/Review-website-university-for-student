@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "img":"https://i.ibb.co/3hXJQCj/Untitled-design-7.png",
+      "name": "COMPUTER SCIENCE",
+      "Description": "The knowledge & exposure given in the undergraduate and graduate (MBA) programs provides the tools needed to succeed in the industry.",
+      "catagories": "Bachelors Degree , Associates Degree"
+    },
+    {
+      "id": 2,
+      "img":"https://i.ibb.co/7Knhs44/Untitled-design-6.png",
+      "name": "BUSINESS ADMINISTRATION",
+      "Description": "Students will gain comprehensive knowledge of business theory and practical application in today’s versatile and challenging business world.",
+      "catagories": "MBA , Bechelor Degree"
+    },
+    {
+      "id": 3,
+      "img":"https://i.ibb.co/M7x7XcS/Untitled-design-9.png",
+      "name": "HEALTH SCIENCE",
+      "Description": "Gain knowledge, skills, and hands-on experience that are instrumental to working as a health care professional in this complex and evolving industry.",
+      "catagories": "Bechelors degree , Associates degree"
+    },
+    {
+      "id": 4,
+      "img":"https://i.ibb.co/KbnzWsK/Untitled-design-8.png",
+      "name": "EDUCATION",
+      "Description": "In collaboration with the IB, our online Master’s Degree Program will help you develop effective skills to become part of the next generation of highly-skilled teachers.",
+      "catagories": "Masters of Education"
+    },
+    {
+        "id": 5,
+        "img":"https://i.ibb.co/19304ft/Untitled-design-10.png",
+        "name": "Electrical & Electronics Engineering",
+        "Description": "In collaboration with the IB, our online Master’s Degree Program will help you develop effective skills to become part of the next generation of highly-skilled teachers.",
+        "catagories": "Masters of Education"
+      },
+      {
+        "id": 6,
+        "img":"https://i.ibb.co/JcY8MR0/Untitled-design-11.png",
+        "name": "Bachelor of Commerce",
+        "Description": "The Bachelor of Commerce degree is designed to provide students with a wide range of managerial skills, while building competence in a particular area of business (see aside).",
+        "catagories": "MBA"
+      },
+      {
+        "id": 7,
+        "img":"https://i.ibb.co/dM9BH2x/Untitled-design-12.png",
+        "name": "Bechelor of ART",
+        "Description": "The School of Arts, Design and Architecture is one of the most prestigious universities in its fields. We educate our students to create imaginative, collaborative, compassionate and unconventional approaches to the most pressing challenges of today.",
+        "catagories": "Masters of Education"
+      },
+      {
+        "id": 8,
+        "img":"https://i.ibb.co/Zzq4Ppn/Untitled-design-13.png",
+        "name": "Marketing & Creative",
+        "Description": "From strategy and planning to execution and measurement, Pierpont’s marketing team is here to help you drive business resultsZ.",
+        "catagories": "Masters of Education"
+      }
+
+  ]

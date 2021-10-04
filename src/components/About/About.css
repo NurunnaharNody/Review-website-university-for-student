@@ -1,0 +1,18 @@
+.about-title {
+  background-image: url(https://i.ibb.co/QFVxF7m/download-4.jpg);
+  height: 200px;
+  color: rgb(28, 1, 53);
+}.about-title h1{
+     color:rgb(255, 255, 255);
+     font-weight: bolder;
+     padding-top: 30px;
+}
+
+.about-container h2{
+     color: rgb(39, 3, 39);
+     font-weight: bolder;
+     padding: 30px;
+}
+.about-container p{
+    font-size: 20px;
+}

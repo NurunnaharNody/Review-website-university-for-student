@@ -1,0 +1,6 @@
+.serviceCard-container{
+    margin:30px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+   padding: 30px;
+}
