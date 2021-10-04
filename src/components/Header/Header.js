@@ -9,7 +9,7 @@ const Header = () => {
             <h1>U F S</h1>
             <Navbar bg="dark" variant="dark">
         <Container>
-       <Nav className="me-auto p-40">
+       <Nav className="mx-auto nav-links">
       <Link to="/home">Home</Link>
       <Link to="/services">Services</Link>
       <Link to="/about">About</Link>

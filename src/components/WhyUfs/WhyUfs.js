@@ -20,7 +20,8 @@ const WhyUfs = () => {
     <Carousel.Caption className="w-title">
       <h3 >Milly S</h3>
       <h4 >Business Administration</h4>
-      <p>I Have already gotten two course.Take Love.</p>
+      <p>I Have finished two course.<br/>
+        Take Love.</p>
     </Carousel.Caption>
   </Carousel.Item>
   <Carousel.Item>
@@ -34,7 +35,8 @@ const WhyUfs = () => {
       <h3>Mihiran su</h3>
       <h4>Computer science</h4>
       <p>It's a great University. <br/>
-        Take ur decission and make it Enjoyable.</p>
+        Take ur decission.<br/>
+        Make it Enjoyable.</p>
     </Carousel.Caption>
   </Carousel.Item>
   <Carousel.Item>
