@@ -13,7 +13,7 @@ const WhyUfs = () => {
  <Carousel>
   <Carousel.Item>
     <img
-      className="d-block p-30 "
+      className="d-block w-50 "
       src="https://i.ibb.co/bFYrdLn/Untitled-design-14.png"
       alt="First slide"
     />
@@ -25,7 +25,7 @@ const WhyUfs = () => {
   </Carousel.Item>
   <Carousel.Item>
     <img
-      className="d-block"
+      className="d-block w-50"
       src="https://i.ibb.co/3S71vw1/Untitled-design-15.png"
       alt="Second slide"
     />
@@ -39,7 +39,7 @@ const WhyUfs = () => {
   </Carousel.Item>
   <Carousel.Item>
     <img
-      className="d-block"
+      className="d-block w-50"
       src="https://i.ibb.co/mt0gGHW/Untitled-design-16.png"
       alt="Third slide"
     />
