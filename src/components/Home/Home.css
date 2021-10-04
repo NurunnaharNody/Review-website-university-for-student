@@ -1,5 +1,9 @@
+.title h1{
+   text-align: center;
+}
 .header-section{
    margin: 19px;
+   text-align: center;
 }
 .header-img img{
    width:900px;
