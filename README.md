@@ -4,7 +4,7 @@ Here My educational site link: [University For Student](https://educational-site
 
 ## Uses sectors:
 
-#HTNL
+#HTML
 #CSS
 #Bootstrap
 #React
